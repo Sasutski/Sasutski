@@ -7,4 +7,4 @@
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=sasutski&count_private=true&show_icons=true&theme=monokai)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sasutski&theme=monokai&layout=compact&count_private=true&langs_count=6)</br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sasutski&theme=dark&hide_border=false)<br/>
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jakewharton&count_private=true&show_icons=true&theme=monokai)
+
