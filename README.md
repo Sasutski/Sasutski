@@ -8,4 +8,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sasutski&theme=dark&hide_border=false)<br/>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yaushing&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=sasutski&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
