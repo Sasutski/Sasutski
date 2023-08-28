@@ -7,5 +7,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sasutski&theme=monokai&layout=compact&count_private=true&langs_count=6)</br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sasutski&theme=dark&hide_border=false)<br/>
 
+<h2 align="center">> Frequently used languages</h2>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=molangning&theme=transparent"></p>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sasutski&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
