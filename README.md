@@ -82,7 +82,7 @@ sasutskitan@gmail.com
 
 ## Let's Work on Your Project Together!
 
-If you want to work on projects together, feel free to <a href="mailto:sasutskitan@gmail.com">contact me through email</a> me.
+If you want to work on projects together, feel free to <a href="mailto:sasutskitan@gmail.com">contact me through email</a>.
 
 
   </td>
