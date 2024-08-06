@@ -65,13 +65,13 @@ sasutskitan@gmail.com
 
 |                                                                     Sasutski's Stats                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Sasutski's github stats](https://github-readme-stats.vercel.app/api?username=Ezetokiel&show_icons=true&theme=algolia)              | 
+| ![Sasutski's github stats](https://github-readme-stats.vercel.app/api?username=sasutski&show_icons=true&theme=algolia)              | 
 | ![Sasutski's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sasutski&theme=algolia)                    | 
     
 
 |                                                                                                      Sasutski's Stars                                                                                                       |                                                           Top Languages                                                           |      
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| ![Github Stars](https://github-readme-stats.vercel.app/api?username=sasutski&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sasutski&langs_count=8&theme=algolia&layout=compact) |
+| ![Github Stars](https://github-readme-stats.vercel.app/api?username=sasutski&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ezetokiel&langs_count=8&theme=algolia&layout=compact) |
 
 
 
