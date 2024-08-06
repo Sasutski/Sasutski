@@ -65,8 +65,8 @@ sasutskitan@gmail.com
 
 |                                                                     Sasutski's Stats                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Sasutski's github stats](https://github-readme-stats.vercel.app/api?username=sasutski&show_icons=true&theme=algolia)              | 
-| ![Sasutski's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ezetokiel&theme=algolia)                    | 
+| ![Sasutski's github stats](https://github-readme-stats.vercel.app/api?username=Ezetokiel&show_icons=true&theme=algolia)              | 
+| ![Sasutski's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sasutski&theme=algolia)                    | 
     
 
 |                                                                                                      Sasutski's Stars                                                                                                       |                                                           Top Languages                                                           |      
