@@ -80,6 +80,7 @@ sasutskitan@gmail.com
   <tr>
   <td width="50%" valign="top">
 
+![](./profile-3d-contrib/profile-green-animate.svg)
 ## Let's Work on Your Project Together!
 
 If you want to work on projects together, feel free to <a href="mailto:sasutskitan@gmail.com">contact me through email</a>.
