@@ -67,16 +67,8 @@ sasutski@github
 
 |                                                                     Sasutski's Stats                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Sasutski's github stats](https://github-readme-stats.vercel.app/api?username=sasutski&show_icons=true&theme=algolia)              | 
-| ![Sasutski's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sasutski&theme=algolia)                    | 
-|  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sasutski&" height="160" alt="activity-graph graph"  />|
-    
-
-|                                                                                                      Sasutski's Stars                                                                                                       |                                                           Top Languages                                                           |      
-|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| ![Github Stars](https://github-readme-stats.vercel.app/api?username=sasutski&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sasutski&langs_count=8&theme=algolia&layout=compact) |
-
-
+| ![Sasutski's github stats](https://github-readme-stats.vercel.app/api?username=sasutski&show_icons=true&theme=algolia)    ![Sasutski's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sasutski&theme=algolia)| 
+|  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sasutski&theme=vue" height="320" alt="activity-graph graph"  />|
 
 
 <table style="border: none">
