@@ -1,27 +1,29 @@
 <h1 align="center">
-Hi, I'm Sasutski/James!
+Hi, I'm Sasutski!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+  <img src="https://komarev.com/ghpvc/?username=Sasutski&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="vishalmaurya" />
+<br/>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computing+Student;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=pythonicnerds.me;Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
-
+<img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
 <hr>
 
 ```
-sasutskitan@gmail.com
+sasutski@github
 -------------------------
-💻 I am a self taught and school taught computing student
-📚 I am currently studying computing in school
+💻 I am a self taught Full Stack Developer and a Machine Learning Developer
+👨🏽‍💻 Check out my website at ""
+📚 I am still studying!
 📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Learning on Deep Learning & Machine Learning
-🌟 Main languages: Python, Html, Css, Javascript
-🚩 Interested in Capture The Flag
-🎵 Love rap, lofi, pop music.
-🎵 Favourite Artists: NF, Alec Benjamin, Conner Price
+🔭 Working on Personal Projects
+🌟 Main languages: Python, JavaScript
 ```
 <hr>
+
 
 
 ## 🛠️ My Favorite Tools
