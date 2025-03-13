@@ -52,12 +52,11 @@ sasutski@github
     <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-    <a href="#"><img alt="Zed" src="https://img.shields.io/badge/Zed-white?logo=zedindustries&logoColor=084CCF"></a>
 </p>
 
 ### 👨🏽‍💻 Workspace
 <p>
-    <a href="#"><img alt="Macbook Air M1" src="https://img.shields.io/badge/Apple-MacBook_Air_2020-999999?style=for-the-badge&logo=apple&logoColor=white"></a>
+    <a href="#"><img alt="Macbook Air M2" src="https://img.shields.io/badge/Apple-MacBook_Air_2023-999999?style=for-the-badge&logo=apple&logoColor=white"></a>
     <a href="#"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 </p>
 
