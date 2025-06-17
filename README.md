@@ -66,7 +66,7 @@ sasutski@github
 
 |                                                                     Sasutski's Stats                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Sasutski's github stats](https://github-readme-stats.vercel.app/api?username=sasutski&show_icons=true&theme=algolia)    ![Sasutski's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sasutski&theme=algolia)| 
+| ![Sasutski's github stats](https://github-readme-stats.vercel.app/api/?username=sasutski&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&theme=algolia)    ![Sasutski's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sasutski&theme=algolia)| 
 |  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sasutski&theme=tokyo-night" height="320" alt="activity-graph graph"  />|
 |![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=@sasutski)|
 
